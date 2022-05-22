@@ -1,1 +1,1 @@
-This program is for crawler which is for internal using.
+This program is for crawlers which were for internal using.
