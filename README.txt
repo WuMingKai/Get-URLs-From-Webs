@@ -1,3 +1,2 @@
-These are crawlers which were for internal using in company.
-Two of them are getting the url from outside/inside websites.
-MTR could be used for general people.
+These crawlers are for internal using in company.
+To get the URLs from outside/inside websites.
